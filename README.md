@@ -6,9 +6,9 @@ Space propulsion coding demo
 Space propulsion engineer with experience in electric, chemical and breakthrough space propulsion, experimental diagnostics, vacuum testing, signal processing, and aerospace hardware validation.
 
 ## Selected engineering demos
-- Thrust signal analysis with synthetic data
+- Thrust signal analysis with synthetic data demo
 - Low-thrust trajectory analysis demo
-- Sensor calibration and uncertainty propagation
+- Sensor calibration and uncertainty propagation demo
 
 ## Links
 - LinkedIn: linkedin.com/in/maxmonette
